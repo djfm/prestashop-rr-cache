@@ -5,7 +5,6 @@
   "repositories": [
     {"type": "vcs", "url": "https://github.com/prestashop/blockbanner"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcart"},
-    {"type": "vcs", "url": "https://github.com/prestashop/blockcontactinfos"},
     {"type": "vcs", "url": "https://github.com/prestashop/blockcurrencies"},
     {"type": "vcs", "url": "https://github.com/prestashop/blocklanguages"},
     {"type": "vcs", "url": "https://github.com/prestashop/blocktopmenu"},
